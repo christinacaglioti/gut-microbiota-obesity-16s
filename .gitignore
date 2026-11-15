@@ -48,3 +48,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Large data files (raw reads, QIIME 2 artifacts) - not tracked
+data/
