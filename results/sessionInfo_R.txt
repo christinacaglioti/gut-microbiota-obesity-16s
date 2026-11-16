@@ -1,0 +1,64 @@
+R version 4.5.3 (2026-03-11)
+Platform: x86_64-conda-linux-gnu
+Running under: Ubuntu 24.04.5 LTS
+
+Matrix products: default
+BLAS/LAPACK: /opt/conda/envs/r-microbiome/lib/libopenblasp-r0.3.34.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Etc/UTC
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] doRNG_1.8.6.3     rngtools_1.5.2    foreach_1.5.2     tidyr_1.3.2      
+ [5] dplyr_1.2.1       ggplot2_4.0.4     ANCOMBC_2.14.0    picante_1.8.2    
+ [9] nlme_3.1-170      ape_5.8-1         vegan_2.7-5       permute_0.9-10   
+[13] biomformat_1.38.3 phyloseq_1.54.2  
+
+loaded via a namespace (and not attached):
+  [1] Rdpack_2.6.6        gridExtra_2.3.1     gld_2.6.8          
+  [4] sandwich_3.1-3      readxl_1.6.0        rlang_1.3.0        
+  [7] magrittr_2.0.5      multcomp_1.4-32     ade4_1.7-24        
+ [10] e1071_1.7-17        compiler_4.5.3      mgcv_1.9-4         
+ [13] vctrs_0.7.3         reshape2_1.4.5      gsl_2.1-9          
+ [16] quadprog_1.5-8      stringr_1.6.0       pkgconfig_2.0.3    
+ [19] crayon_1.5.3        fastmap_1.2.0       backports_1.5.1    
+ [22] XVector_0.50.0      energy_1.7-12       labeling_0.4.3     
+ [25] rmarkdown_2.32      tzdb_0.5.0          nloptr_2.2.1       
+ [28] haven_2.5.5         purrr_1.2.2         xfun_0.61          
+ [31] jsonlite_2.0.0      rhdf5filters_1.22.0 Rhdf5lib_1.32.0    
+ [34] parallel_4.5.3      cluster_2.1.8.3     DescTools_0.99.60  
+ [37] R6_2.6.1            stringi_1.8.9       RColorBrewer_1.1-3 
+ [40] boot_1.3-32         rpart_4.1.27        numDeriv_2016.8-1.1
+ [43] cellranger_1.1.0    Rcpp_1.1.2          Seqinfo_1.0.0      
+ [46] iterators_1.0.14    knitr_1.52          zoo_1.9-0          
+ [49] base64enc_0.1-6     readr_2.2.0         IRanges_2.44.0     
+ [52] Matrix_1.7-5        splines_4.5.3       nnet_7.3-21        
+ [55] igraph_2.3.4        tidyselect_1.2.1    rstudioapi_0.19.0  
+ [58] doParallel_1.0.17   codetools_0.2-20    lmerTest_3.2-1     
+ [61] lattice_0.23-1      tibble_3.3.1        plyr_1.8.9         
+ [64] Biobase_2.70.0      withr_3.0.3         S7_0.2.2           
+ [67] Rtsne_0.17          evaluate_1.0.5      foreign_0.8-91     
+ [70] survival_3.8-12     proxy_0.4-29        Biostrings_2.78.0  
+ [73] pillar_1.11.1       checkmate_2.3.3     stats4_4.5.3       
+ [76] reformulas_0.4.4    generics_0.1.4      microbiome_1.32.0  
+ [79] S4Vectors_0.48.1    hms_1.1.4           scales_1.4.0       
+ [82] rootSolve_1.8.2.4   minqa_1.2.8         gtools_3.9.5       
+ [85] class_7.3-24        glue_1.8.1          Hmisc_5.3-0        
+ [88] lmom_3.3            tools_4.5.3         data.table_1.18.6.1
+ [91] lme4_2.0-6          forcats_1.0.1       Exact_3.3          
+ [94] fs_2.1.0            mvtnorm_1.4-2       rhdf5_2.54.1       
+ [97] grid_4.5.3          rbibutils_2.4.1     colorspace_2.1-3   
+[100] htmlTable_2.5.0     Formula_1.2-6       cli_3.6.6          
+[103] expm_1.0-0          gtable_0.3.6        digest_0.6.39      
+[106] BiocGenerics_0.56.0 TH.data_1.1-5       htmlwidgets_1.6.4  
+[109] farver_2.1.2        htmltools_0.5.9     multtest_2.66.0    
+[112] lifecycle_1.0.5     httr_1.4.9          MASS_7.3-66        
