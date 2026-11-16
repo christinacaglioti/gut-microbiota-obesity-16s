@@ -1,0 +1,7 @@
+nohup: ignoring input
+306954180 total bases in 1180593 reads from 8 samples will be used for learning the error rates.
+236118600 total bases in 1180593 reads from 8 samples will be used for learning the error rates.
+Saved FeatureTable[Frequency] to: data/table.qza
+Saved FeatureData[Sequence] to: data/rep-seqs.qza
+Saved SampleData[DADA2Stats] to: data/denoising-stats.qza
+Saved DADA2BaseTransitionStats to: data/dada2-base-transition-stats.qza
